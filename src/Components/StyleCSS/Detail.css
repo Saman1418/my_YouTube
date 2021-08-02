@@ -1,0 +1,8 @@
+.detail__height{
+    height: 400px;
+    /* object-fit: contain; */
+}
+.card{
+    margin-left: 180px;
+    margin-right: 180px;
+}

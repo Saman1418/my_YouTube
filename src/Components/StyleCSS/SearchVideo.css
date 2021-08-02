@@ -1,0 +1,14 @@
+.RecomendedVideo{
+    /* border: 1px solid black; */
+    flex: 0.8;
+    padding: 40px 20px;
+    padding-bottom: 0;
+}
+.RecomendedVideo > h2{
+    margin-left: 5px;
+    margin-bottom: 20px;
+}
+.RecomendedVideo__videoCard{
+    display: flex;
+    flex-wrap: wrap;
+}

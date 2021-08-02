@@ -1,0 +1,45 @@
+.videoRow > img{
+    /* height: 138px; */
+    width: 246px;
+    object-fit: contain;
+    margin-right: 30px;
+}
+.videoRow{
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    max-width: 700px;
+    /* border:1px solid brown; */
+}
+.videoRow__text{
+    margin-left: 14px;
+}
+.videoRow__headline{
+    font-size: 12px;
+    color:#606060;
+}
+.videoRow__description{
+    font-size: 12px;
+    color:#606060;
+    margin-top: 20px;
+}
+.videoRow__sub{
+    color: rgb(84, 157, 212);
+    font-weight: bolder;
+}
+.videoRow__subs{
+    background-color: lightgray;
+    padding: 2px;
+}
+.clickMe{
+    /* background-color:lightgray; */
+    padding: 7px;
+    text-decoration: none;
+    border-radius: 8px;
+    color: black;
+}
+.clickMe:hover{
+    background-color: lightgray;
+    text-decoration: underline;
+}
